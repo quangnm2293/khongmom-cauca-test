@@ -100307,7 +100307,7 @@ m=t.p
 p=A.c_(A.b([o,B.fb,n,B.fb,l,B.fb,A.cD(new A.t9(B.L3,p,"T\u1ec9 l\u1ec7 m\xf3m",B.b8,r),1)],m),B.z,B.m,B.y,0)
 if(!s.e)o=B.i8
 else o=J.un(s.d)?B.Gs:A.aI9(new A.axB(s),J.cX(s.d),B.IX)
-return A.mr(r,A.co(A.b([new A.aD(B.J7,p,r),A.cD(o,1)],m),B.z,B.m,B.y),r,A.aMP("fab-journal",B.mg,B.a31,s.gakF(),"Ghi chuy\u1ebfn c\xe2u"))}}
+return A.mr(r,A.co(A.b([new A.aD(B.J7,p,r),A.cD(o,1)],m),B.z,B.m,B.y),r,A.aMP("fab-journal",B.mg,B.a32,s.gakF(),"Ghi chuy\u1ebfn c\xe2u"))}}
 A.axz.prototype={
 $0(){var s=this.a
 s.d=this.b
@@ -100718,7 +100718,7 @@ s=t.p
 e=A.b([g,B.hF,A.aB("B\xe3i: "+e.b+" \xb7 "+e.c,i,i,i,B.jZ,i,i,i),B.dW],s)
 if(f.Uv(h))e.push(B.a2w)
 else{h=this.c
-if(h==null)e.push(B.a30)
+if(h==null)e.push(B.a31)
 else{g=h.b
 f=A.aOL(88,g.a)
 r=A.aB(g.ga40(),i,i,i,B.jY,i,i,i)
@@ -100759,7 +100759,7 @@ $2(a,b){var s,r,q=null,p=this.b,o=p.dw(0.13),n=A.bn(14),m=this.a,l=m.d
 l===$&&A.a()
 s=l.r
 r=t.p
-l=A.b([A.c_(A.b([A.cO(q,A.dW(A.uj(s),p,q,24),B.n,q,new A.bW(o,q,q,n,q,q,B.Z),q,46,q,q,q,q,46),B.c9,A.cD(A.co(A.b([B.Gm,B.dX,A.aB(l.b,q,q,q,B.Zt,q,q,q),A.aB(l.c+" \xb7 "+s.c+" \xb7 mi\u1ec1n "+l.d,q,q,q,B.db,q,q,q)],r),B.a_,B.m,B.y),1)],r),B.a_,B.m,B.y,0),B.aR,A.cb(A.ahH(B.Lz,B.a32,m.gao0()),q,1/0)],r)
+l=A.b([A.c_(A.b([A.cO(q,A.dW(A.uj(s),p,q,24),B.n,q,new A.bW(o,q,q,n,q,q,B.Z),q,46,q,q,q,q,46),B.c9,A.cD(A.co(A.b([B.Gm,B.dX,A.aB(l.b,q,q,q,B.Zt,q,q,q),A.aB(l.c+" \xb7 "+s.c+" \xb7 mi\u1ec1n "+l.d,q,q,q,B.db,q,q,q)],r),B.a_,B.m,B.y),1)],r),B.a_,B.m,B.y,0),B.aR,A.cb(A.ahH(B.Lz,B.a33,m.gao0()),q,1/0)],r)
 if(b.a===B.pB)l.push(B.Th)
 p=A.lh(A.co(l,B.a_,B.m,B.y),B.et)
 o=m.e
@@ -100934,7 +100934,7 @@ for(e=l.d,d=e.length,p=0;p<e.length;e.length===d||(0,A.v)(e),++p){m=e[p]
 c=m.d
 c=c!=null?" \xb7 "+A.k(c)+" kg":""
 g.push(new A.aD(B.IK,A.c_(A.b([B.Lx,B.fc,new A.nG(1,B.eC,A.aB(m.c+c+" \u2014 "+m.w,k,k,k,B.nO,k,k,k),k),A.iA(B.az,k,B.Ld,k,k,new A.aCD(l,a,m),k,k,"B\xe1o c\xe1o n\u1ed9i dung")],b),B.z,B.m,B.y,0),k))}g.push(B.cI)
-g.push(A.cb(A.ahH(B.mg,B.a3_,l.gab6()),k,1/0))
+g.push(A.cb(A.ahH(B.mg,B.a30,l.gab6()),k,1/0))
 i.push(new A.mt("B\xe1o c\xe1 t\u1ea1i b\xe3i n\xe0y",B.KG,g,k))
 return A.mr(f,A.jA(i,k,B.ls,k,!1),k,k)}}
 A.aCy.prototype={
@@ -101087,11 +101087,11 @@ $1(a){var s=null
 return new A.cg(s,s,s,s,s,a.n(0,B.Q)?B.ao:B.az,s,s,s)},
 $S:271}
 A.Q1.prototype={
-F(a){return new A.D_(new A.BU(this.c,null),"Kh\xf4ng M\xf5m \u2014 C\xe2u C\xe1",A.b3b(),!1,null)}}
+F(a){return new A.D_(new A.BU(this.c,null),"M\xea C\xe2u C\xe1",A.b3b(),!1,null)}}
 A.BU.prototype={
 a8(){return new A.XP()}}
 A.XP.prototype={
-F(a){var s=this,r=null,q=s.a.c,p=A.pV(B.a35),o=s.d
+F(a){var s=this,r=null,q=s.a.c,p=A.pV(B.a3_),o=s.d
 return A.mr(p,A.aNf(B.bM,A.b([new A.Bw(q,r),new A.Ev(q,r),B.Kl,new A.Cl(q,r),new A.AN(q,r)],t.p),o),new A.QM(s.d,B.P9,new A.awX(s),r),r)}}
 A.awX.prototype={
 $1(a){var s=this.a
@@ -105733,8 +105733,8 @@ B.Gq=new A.fS(B.J,null,null,B.Tf,null)
 B.a6V=new A.ara(0,"material")
 B.Gy=new A.uM(null,null,null,null,null,null,null,null)
 B.i8=new A.fS(B.J,null,null,B.Gy,null)
-B.a33=new A.bx("Kh\xf4ng t\xecm th\u1ea5y b\xe0i n\xe0o.",null,null,null,null,null,null,null,null,null)
-B.Gr=new A.fS(B.J,null,null,B.a33,null)
+B.a34=new A.bx("Kh\xf4ng t\xecm th\u1ea5y b\xe0i n\xe0o.",null,null,null,null,null,null,null,null,null)
+B.Gr=new A.fS(B.J,null,null,B.a34,null)
 B.lv=new A.a6(24,24,24,24)
 B.a2R=new A.bx("Ch\u01b0a c\xf3 chuy\u1ebfn n\xe0o. B\u1ea5m n\xfat + \u0111\u1ec3 ghi chuy\u1ebfn \u0111\u1ea7u ti\xean \u2014 c\xe2u \u0111\u01b0\u1ee3c hay m\xf3m c\u0169ng ghi, d\u1eef li\u1ec7u c\u1ee7a ch\xednh anh m\u1edbi l\xe0 chu\u1ea9n nh\u1ea5t.",null,null,B.d8,null,null,null,null,null,null)
 B.T8=new A.aD(B.lv,B.a2R,null)
@@ -107865,8 +107865,8 @@ B.CJ=new A.m(!0,B.ay,null,null,null,null,17,B.c1,null,null,null,null,null,null,n
 B.a2I=new A.bx("Ch\u1ecdn b\xe3i c\xe2u",null,B.CJ,null,null,null,null,null,null,null)
 B.Ta=new A.aD(B.Jl,B.a2I,null)
 B.Jn=new A.a6(24,12,24,12)
-B.a34=new A.bx('B\u1ea1n ch\u01b0a \u0111\xf3ng g\xf3p g\xec. Th\xeam b\xe3i c\xe2u m\u1edbi, \u0111\u0103ng b\xe1o c\xe1 \u1edf m\u1ee5c B\xe1o c\xe1, ho\u1eb7c m\u1edf m\u1ed9t b\xe3i v\xe0 b\u1ea5m "G\u1ee3i \xfd s\u1eeda / B\xe1o sai".',null,B.da,null,null,null,null,null,null,null)
-B.Tb=new A.aD(B.Jn,B.a34,null)
+B.a35=new A.bx('B\u1ea1n ch\u01b0a \u0111\xf3ng g\xf3p g\xec. Th\xeam b\xe3i c\xe2u m\u1edbi, \u0111\u0103ng b\xe1o c\xe1 \u1edf m\u1ee5c B\xe1o c\xe1, ho\u1eb7c m\u1edf m\u1ed9t b\xe3i v\xe0 b\u1ea5m "G\u1ee3i \xfd s\u1eeda / B\xe1o sai".',null,B.da,null,null,null,null,null,null,null)
+B.Tb=new A.aD(B.Jn,B.a35,null)
 B.Jd=new A.a6(16,8,16,10)
 B.a5s=new A.pf(B.l1,"H\u1ed3 d\u1ecbch v\u1ee5",null)
 B.c9=new A.cz(12,null,null,null)
@@ -108679,11 +108679,11 @@ B.a2V=new A.bx("G\u1eedi g\u1ee3i \xfd (ch\u1edd duy\u1ec7t)",null,null,null,nul
 B.a2W=new A.bx("L\u01b0u chuy\u1ebfn",null,null,null,null,null,null,null,null,null)
 B.a2Y=new A.bx("B\xe1o c\xe1o n\u1ed9i dung",null,null,null,null,null,null,null,null,null)
 B.a2Z=new A.bx("Ch\u01b0a c\xf3 b\xe1o c\xe1 n\xe0o t\u1ea1i b\xe3i n\xe0y \u2014 h\xe3y l\xe0 ng\u01b0\u1eddi \u0111\u1ea7u ti\xean.",null,B.da,null,null,null,null,null,null,null)
-B.a3_=new A.bx("Th\xeam b\xe1o c\xe1 t\u1ea1i b\xe3i n\xe0y",null,null,null,null,null,null,null,null,null)
-B.a30=new A.bx("\u0110ang t\u1ea3i d\u1eef li\u1ec7u c\u1ee7a b\xe3i n\xe0y\u2026",null,B.da,null,null,null,null,null,null,null)
-B.a31=new A.bx("Ghi chuy\u1ebfn",null,null,null,null,null,null,null,null,null)
-B.a32=new A.bx("\u0110\u1ed5i b\xe3i",null,null,null,null,null,null,null,null,null)
-B.a35=new A.bx("Kh\xf4ng M\xf5m \u2014 C\xe2u C\xe1",null,null,null,null,null,null,null,null,null)
+B.a3_=new A.bx("M\xea C\xe2u C\xe1",null,null,null,null,null,null,null,null,null)
+B.a30=new A.bx("Th\xeam b\xe1o c\xe1 t\u1ea1i b\xe3i n\xe0y",null,null,null,null,null,null,null,null,null)
+B.a31=new A.bx("\u0110ang t\u1ea3i d\u1eef li\u1ec7u c\u1ee7a b\xe3i n\xe0y\u2026",null,B.da,null,null,null,null,null,null,null)
+B.a32=new A.bx("Ghi chuy\u1ebfn",null,null,null,null,null,null,null,null,null)
+B.a33=new A.bx("\u0110\u1ed5i b\xe3i",null,null,null,null,null,null,null,null,null)
 B.a36=new A.bx("B\xe1o c\xe1o s\u1ebd \u0111\u01b0\u1ee3c \u0111\u1ed9i ki\u1ec3m duy\u1ec7t xem x\xe9t. N\u1ed9i dung vi ph\u1ea1m s\u1ebd b\u1ecb g\u1ee1 khi h\u1ec7 th\u1ed1ng c\u1ed9ng \u0111\u1ed3ng k\xedch ho\u1ea1t.",null,B.jZ,null,null,null,null,null,null,null)
 B.a37=new A.bx("Hu\u1ef7",null,null,null,null,null,null,null,null,null)
 B.nP=new A.bx("\u0110\u0103ng b\xe1o c\xe1",null,null,null,null,null,null,null,null,null)
